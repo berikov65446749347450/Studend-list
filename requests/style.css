@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+}
+.post_form{
+    display: none;
+}
+.active{
+    display: block;
+}
+
+
+table input {
+    color: black;
+    background-color: transparent;
+    border: none;
+}
+
+.active {
+    border: 1px solid;
+    border-radius: 8px;
+}

@@ -1,0 +1,76 @@
+{
+  "students": [
+    {
+      "id": 42,
+      "name": "Elhan",
+      "gender": "male",
+      "age": "14"
+    },
+    {
+      "id": 9,
+      "name": "Nabil",
+      "gender": "male",
+      "age": "19"
+    },
+    {
+      "id": 19,
+      "name": "Dilnaz",
+      "gender": "female",
+      "age": "18"
+    },
+    {
+      "id": 37,
+      "name": "Nurzhamal",
+      "gender": "female",
+      "age": "18"
+    },
+    {
+      "id": 46,
+      "name": "Aimeerim",
+      "gender": "female",
+      "age": "17"
+    },
+    {
+      "id": 58,
+      "name": "Kairat",
+      "gender": "male",
+      "age": "19"
+    },
+    {
+      "id": 14,
+      "name": "Atai",
+      "gender": "male",
+      "age": "15"
+    },
+    {
+      "id": 23,
+      "name": "Akim",
+      "gender": "male",
+      "age": "16"
+    },
+    {
+      "id": 11,
+      "name": "Erjan",
+      "gender": "male",
+      "age": "18"
+    },
+    {
+      "id": 52,
+      "name": "Alexander",
+      "gender": "male",
+      "age": "27"
+    }
+  ],
+  "mentors": [
+    {
+      "id": "1",
+      "name": "Ayana",
+      "gender": "female"
+    },
+    {
+      "id": "2",
+      "name": "Daniel",
+      "gender": "male"
+    }
+  ]
+}
